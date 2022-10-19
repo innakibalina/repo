@@ -1,0 +1,15 @@
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\bin\Debug\net6.0\maxmin.exe
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\bin\Debug\net6.0\maxmin.deps.json
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\bin\Debug\net6.0\maxmin.runtimeconfig.json
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\bin\Debug\net6.0\maxmin.dll
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\bin\Debug\net6.0\maxmin.pdb
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\obj\Debug\net6.0\maxmin.csproj.AssemblyReference.cache
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\obj\Debug\net6.0\maxmin.GeneratedMSBuildEditorConfig.editorconfig
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\obj\Debug\net6.0\maxmin.AssemblyInfoInputs.cache
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\obj\Debug\net6.0\maxmin.AssemblyInfo.cs
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\obj\Debug\net6.0\maxmin.csproj.CoreCompileInputs.cache
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\obj\Debug\net6.0\maxmin.dll
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\obj\Debug\net6.0\refint\maxmin.dll
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\obj\Debug\net6.0\maxmin.pdb
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\obj\Debug\net6.0\maxmin.genruntimeconfig.cache
+D:\ТЕСТИРОВАНИЕ ОБУЧЕНИЕ\Visual code\repo\maxmin\obj\Debug\net6.0\ref\maxmin.dll
